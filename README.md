@@ -1,2 +1,2 @@
-# Cx1015-projecct
-Dataa science project
+# Cx1015-project
+Data science project
